@@ -1,4 +1,4 @@
-# Word Pattern
+# Isomorphic Strings
 
 ### Problem Description:
 https://leetcode.com/problems/isomorphic-strings/
